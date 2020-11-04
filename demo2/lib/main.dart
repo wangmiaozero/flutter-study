@@ -3,7 +3,7 @@ import 'bottom_navigation_widget.dart';
 void main() {
   runApp(MyApp());
 }
-
+//自定义组件 StatelessWidget(无状态组件)
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
