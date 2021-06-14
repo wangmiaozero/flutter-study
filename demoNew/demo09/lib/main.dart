@@ -4,7 +4,7 @@
  * @Autor: wangmiao
  * @Date: 2021-06-01 23:26:52
  * @LastEditors: wangmiao
- * @LastEditTime: 2021-06-14 23:51:06
+ * @LastEditTime: 2021-06-14 23:57:51
  */
 import 'package:flutter/material.dart';
 
@@ -38,7 +38,7 @@ class LayoutDemo extends StatelessWidget {
       runSpacing: 10,
       //direction: Axis.vertical,
       //alignment: WrapAlignment.spaceEvenly,
-      //runAlignment: WrapAlignment.center,
+      runAlignment: WrapAlignment.center,
       children: <Widget>[
         MyButton("clannad"),
         MyButton("AIR"),
@@ -46,6 +46,11 @@ class LayoutDemo extends StatelessWidget {
         MyButton("Angel Beats"),
         MyButton("秒速五厘米"),
         MyButton("轻音少女"),
+        MyButton("千与千寻"),
+        MyButton("天空之城"),
+        MyButton("魔女宅急便"),
+        MyButton("朝花夕誓"),
+        MyButton("龙猫"),
         MyButton("好想告诉你"),
         MyButton("哆啦A梦"),
         MyButton("迪迦奥特曼"),
