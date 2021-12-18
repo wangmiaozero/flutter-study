@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/.idea/gen" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/demo7/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo7/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo7/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo9/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo9/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo9/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo11/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo11/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo11/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo10/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo10/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo07/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo07/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo07/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/deno14/build" />
+      <excludeFolder url="file://$MODULE_DIR$/deno14/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/deno14/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo03/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo03/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo03/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo12/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo12/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo12/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo05/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo05/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo05/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo13/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo13/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo13/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo14/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo14/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo14/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo6/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo13/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo13/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo13/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo09/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo09/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo09/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo11/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo11/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo11/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app_demo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app_demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo8/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo8/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo8/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo02/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo02/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo02/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo01/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo01/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo01/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo08/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo08/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo08/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo04/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo04/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo04/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo06/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo06/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo06/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo10/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo10/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo15/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo15/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo15/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo12/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo12/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demoNew/demo12/.pub" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
